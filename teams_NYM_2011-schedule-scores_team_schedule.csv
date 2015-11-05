@@ -1,0 +1,168 @@
+
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,1,Friday Apr 1,boxscore,NYM,@,FLA,L,2,6,,0-1,4,1.0,Johnson,Pelfrey,,2:42,N,41237,-
+2,2,Saturday Apr 2,boxscore,NYM,@,FLA,W,6,4,10,1-1,2,1.0,Rodriguez,Webb,Boyer,3:05,N,32495,+
+3,3,Sunday Apr 3,boxscore,NYM,@,FLA,W,9,2,,2-1,2,1.0,Dickey,Vazquez,,3:21,D,18936,++
+4,4,Tuesday Apr 5,boxscore,NYM,@,PHI,W,7,1,,3-1,1,Tied,Young,Hamels,,2:56,N,45365,+++
+5,5,Wednesday Apr 6,boxscore,NYM,@,PHI,L,7,10,,3-2,2,1.0,Bastardo,Boyer,Contreras,2:52,N,45061,-
+6,6,Thursday Apr 7,boxscore,NYM,@,PHI,L,0,11,,3-3,2,2.0,Halladay,Niese,,2:24,D,45468,--
+7,7,Friday Apr 8,boxscore,NYM,,WSN,L,2,6,,3-4,4,2.0,Zimmermann,Dickey,,3:13,D,41075,---
+8,8,Saturday Apr 9,boxscore,NYM,,WSN,W,8,4,,4-4,3,2.0,Capuano,Gorzelanny,Rodriguez,3:20,N,31696,+
+9,9,Sunday Apr 10,boxscore,NYM,,WSN,L,3,7,11,4-5,3,3.0,Storen,Boyer,,3:53,D,35157,-
+10,10,Monday Apr 11,boxscore,NYM,,COL,L,6,7,,4-6,4,3.5,Belisle,Parnell,Street,3:29,N,24865,--
+11,11,Wednesday Apr 13,boxscore,NYM,,COL,L,4,5,,4-7,5,4.0,Rogers,Niese,Street,2:52,N,25878,---
+12,12,Thursday Apr 14 (1),boxscore,NYM,,COL,L,5,6,,4-8,5,5.5,Reynolds,Dickey,Lindstrom,3:23,D,0,----
+13,13,Thursday Apr 14 (2),boxscore,NYM,,COL,L,4,9,,4-9,5,5.5,De La Rosa,Capuano,,3:16,D,25758,-----
+14,14,Saturday Apr 16 (1),boxscore,NYM,@,ATL,L,2,4,,4-10,5,6.0,Lowe,Carrasco,Kimbrel,2:47,D,0,------
+15,15,Saturday Apr 16 (2),boxscore,NYM,@,ATL,L,0,4,,4-11,5,6.0,Jurrjens,Pelfrey,,2:29,N,31383,-------
+16,16,Sunday Apr 17,boxscore,NYM,@,ATL,W,3,2,,5-11,5,6.0,Gee,Hanson,Rodriguez,2:52,D,29625,+
+17,17,Tuesday Apr 19,boxscore,NYM,,HOU,L,1,6,,5-12,5,5.5,Rodriguez,Niese,,2:59,N,27032,-
+18,18,Wednesday Apr 20,boxscore,NYM,,HOU,L,3,4,,5-13,5,6.5,Melancon,Dickey,Lyon,2:50,N,27380,--
+19,19,Thursday Apr 21,boxscore,NYM,,HOU,W,9,1,,6-13,5,6.5,Capuano,Happ,,2:41,N,32819,+
+20,20,Friday Apr 22,boxscore,NYM,,ARI,W,4,1,,7-13,5,6.5,Pelfrey,Vasquez,Rodriguez,3:06,N,26546,++
+21,21,Saturday Apr 23,boxscore,NYM,,ARI,W,6,4,,8-13,5,6.5,Gee,Enright,Rodriguez,2:48,D,25581,+++
+22,22,Sunday Apr 24,boxscore,NYM,,ARI,W,8,4,,9-13,5,6.5,Niese,Galarraga,,2:48,D,22232,++++
+23,23,Tuesday Apr 26,boxscore,NYM,@,WSN,W,6,4,,10-13,5,5.5,Igarashi,Zimmermann,Rodriguez,2:54,N,14603,+++++
+24,24,Wednesday Apr 27,boxscore,NYM,@,WSN,W,6,3,,11-13,4,5.0,Beato,Burnett,Rodriguez,2:47,N,13568,++++++
+25,25,Thursday Apr 28,boxscore,NYM,@,WSN,L,3,4,,11-14,5,5.5,Hernandez,Capuano,Storen,2:29,N,15142,-
+26,26,Friday Apr 29,boxscore,NYM,@,PHI,L,3,10,,11-15,5,6.5,Worley,Pelfrey,,3:01,N,45613,--
+27,27,Saturday Apr 30,boxscore,NYM,@,PHI,L,1,2,,11-16,5,7.5,Halladay,Niese,,2:25,D,45598,---
+28,28,Sunday May 1,boxscore,NYM,@,PHI,W,2,1,14,12-16,5,6.5,Buchholz,Kendrick,,4:44,N,45713,+
+29,29,Tuesday May 3,boxscore,NYM,,SFG,L,6,7,10,12-17,5,7.5,Lopez,Buchholz,Wilson,3:32,N,32288,-
+30,30,Wednesday May 4,boxscore,NYM,,SFG,L,0,2,,12-18,5,8.5,Lincecum,Capuano,Wilson,3:00,N,29333,--
+31,31,Thursday May 5,boxscore,NYM,,SFG,W,5,2,,13-18,5,8.5,Pelfrey,Sanchez,Rodriguez,2:46,D,23433,+
+32,32,Friday May 6,boxscore,NYM,,LAD,W,6,3,,14-18,5,7.5,Igarashi,Kuroda,Rodriguez,3:17,N,35948,++
+33,33,Saturday May 7,boxscore,NYM,,LAD,W,4,2,,15-18,5,7.5,Byrdak,MacDougal,Rodriguez,3:12,N,31464,+++
+34,34,Sunday May 8,boxscore,NYM,,LAD,L,2,4,,15-19,5,7.5,Kershaw,Dickey,Padilla,2:55,D,26312,-
+35,35,Monday May 9,boxscore,NYM,@,COL,L,1,2,,15-20,5,8.5,Belisle,Capuano,Street,2:47,N,31885,--
+36,36,Tuesday May 10,boxscore,NYM,@,COL,W,4,3,,16-20,5,7.5,Pelfrey,Hammel,Rodriguez,2:35,N,31007,+
+37,37,Thursday May 12,boxscore,NYM,@,COL,W,9,5,,17-20,5,7.5,Niese,Jimenez,,2:52,D,21422,++
+38,38,Friday May 13,boxscore,NYM,@,HOU,W,6,4,,18-20,4,7.5,Misch,Fulchino,Rodriguez,2:58,N,28791,+++
+39,39,Saturday May 14,boxscore,NYM,@,HOU,L,3,7,,18-21,4,7.5,Happ,Dickey,,2:48,D,31140,-
+40,40,Sunday May 15,boxscore,NYM,@,HOU,W,7,4,,19-21,4,6.5,Capuano,Rodriguez,Rodriguez,3:19,D,28406,+
+41,41,Monday May 16,boxscore,NYM,,FLA,L,1,2,11,19-22,5,6.5,Badenhop,Igarashi,Oviedo,3:31,N,23721,-
+42,42,Wednesday May 18,boxscore,NYM,,WSN,W,3,0,,20-22,4,6.0,Niese,Gorzelanny,Rodriguez,2:51,N,24527,+
+43,43,Thursday May 19,boxscore,NYM,,WSN,W,1,0,,21-22,4,5.0,Gee,Hernandez,Rodriguez,2:31,D,26835,++
+44,44,Friday May 20,boxscore,NYM,@,NYY,W,2,1,,22-22,4,5.0,Dickey,Garcia,Rodriguez,2:47,N,47874,+++
+45,45,Saturday May 21,boxscore,NYM,@,NYY,L,3,7,,22-23,4,6.0,Burnett,Capuano,,2:44,N,48286,-
+46,46,Sunday May 22,boxscore,NYM,@,NYY,L,3,9,,22-24,4,6.0,Ayala,Pelfrey,,3:03,D,48293,--
+47,47,Tuesday May 24,boxscore,NYM,@,CHC,L,1,11,,22-25,4,6.5,Dempster,Niese,,2:51,N,35707,---
+48,48,Wednesday May 25,boxscore,NYM,@,CHC,W,7,4,7,23-25,4,6.5,Gee,Coleman,,2:01,N,36666,+
+49,49,Thursday May 26,boxscore,NYM,@,CHC,L,3,9,,23-26,4,7.5,Zambrano,Beato,,3:06,D,33378,-
+50,50,Friday May 27,boxscore,NYM,,PHI,L,4,6,,23-27,4,8.5,Bastardo,Rodriguez,Madson,2:53,N,33882,--
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+51,51,Saturday May 28,boxscore,NYM,,PHI,L,2,5,,23-28,4,9.5,Hamels,O'Connor,Madson,2:46,N,29337,---
+52,52,Sunday May 29,boxscore,NYM,,PHI,W,9,5,,24-28,4,8.5,Niese,Worley,,3:01,D,30791,+
+53,53,Monday May 30,boxscore,NYM,,PIT,W,7,3,,25-28,4,8.5,Gee,McCutchen,,2:51,N,24490,++
+54,54,Tuesday May 31,boxscore,NYM,,PIT,L,1,5,,25-29,4,8.5,Meek,Dickey,,2:44,N,26198,-
+55,55,Wednesday Jun 1,boxscore,NYM,,PIT,L,3,9,,25-30,4,8.5,Correia,Capuano,,2:58,N,25234,--
+56,56,Thursday Jun 2,boxscore,NYM,,PIT,W,9,8,,26-30,4,8.0,Isringhausen,Veras,Rodriguez,2:59,D,30074,+
+57,57,Friday Jun 3,boxscore,NYM,,ATL,L,3,6,,26-31,4,8.0,Venters,Rodriguez,Kimbrel,2:35,N,28301,-
+58,58,Saturday Jun 4,boxscore,NYM,,ATL,W,5,0,,27-31,4,7.0,Gee,Jurrjens,,2:19,N,28114,+
+59,59,Sunday Jun 5,boxscore,NYM,,ATL,W,6,4,,28-31,4,7.0,Dickey,Hudson,,2:42,N,21015,++
+60,60,Tuesday Jun 7,boxscore,NYM,@,MIL,W,2,1,,29-31,4,6.5,Capuano,Estrada,Rodriguez,3:00,N,27064,+++
+61,61,Wednesday Jun 8,boxscore,NYM,@,MIL,L-wo,6,7,,29-32,4,7.5,Axford,Thayer,,3:08,N,26114,-
+62,62,Thursday Jun 9,boxscore,NYM,@,MIL,W,4,1,,30-32,4,6.5,Niese,Gallardo,Rodriguez,2:47,N,30632,+
+63,63,Friday Jun 10,boxscore,NYM,@,PIT,W,8,1,,31-32,4,6.5,Gee,Morton,,2:42,N,24653,++
+64,64,Saturday Jun 11,boxscore,NYM,@,PIT,L,2,3,,31-33,4,7.5,McDonald,Dickey,Hanrahan,2:19,N,39273,-
+65,65,Sunday Jun 12,boxscore,NYM,@,PIT,W,7,0,,32-33,4,7.5,Capuano,Correia,,2:42,D,26452,+
+66,66,Monday Jun 13,boxscore,NYM,@,PIT,L,1,3,,32-34,4,8.0,Maholm,Pelfrey,Hanrahan,2:22,N,15555,-
+67,67,Tuesday Jun 14,boxscore,NYM,@,ATL,W,4,3,,33-34,3,8.0,Niese,Jurrjens,Rodriguez,3:03,N,32161,+
+68,68,Wednesday Jun 15,boxscore,NYM,@,ATL,W,4,0,,34-34,3,8.5,Parnell,Hudson,,2:27,N,31161,++
+69,69,Thursday Jun 16,boxscore,NYM,@,ATL,L-wo,8,9,10,34-35,3,9.5,Linebrink,Carrasco,,3:26,N,26077,-
+70,70,Friday Jun 17,boxscore,NYM,,LAA,L,3,4,,34-36,3,9.5,Pineiro,Capuano,Walden,2:47,N,29513,--
+71,71,Saturday Jun 18,boxscore,NYM,,LAA,W,6,1,,35-36,3,9.5,Pelfrey,Haren,,2:27,N,31538,+
+72,72,Sunday Jun 19,boxscore,NYM,,LAA,L,3,7,,35-37,3,9.5,Chatwood,Niese,,2:48,D,36213,-
+73,73,Tuesday Jun 21,boxscore,NYM,,OAK,L,3,7,,35-38,4,10.5,Outman,Gee,Balfour,3:17,N,37019,--
+74,74,Wednesday Jun 22,boxscore,NYM,,OAK,W-wo,3,2,13,36-38,4,10.5,Parnell,Ziegler,,4:00,N,38813,+
+75,75,Thursday Jun 23,boxscore,NYM,,OAK,W,4,1,,37-38,4,9.5,Capuano,Godfrey,Rodriguez,2:37,D,30168,++
+76,76,Friday Jun 24,boxscore,NYM,@,TEX,L,1,8,,37-39,4,10.5,Harrison,Pelfrey,,2:47,N,46092,-
+77,77,Saturday Jun 25,boxscore,NYM,@,TEX,W,14,5,,38-39,4,9.5,Niese,Ogando,,3:05,D,37292,+
+78,78,Sunday Jun 26,boxscore,NYM,@,TEX,W,8,5,,39-39,4,9.5,Gee,Holland,,3:03,D,37879,++
+79,79,Tuesday Jun 28,boxscore,NYM,@,DET,W,14,3,,40-39,3,9.5,Dickey,Porcello,,3:03,N,28480,+++
+80,80,Wednesday Jun 29,boxscore,NYM,@,DET,W,16,9,,41-39,3,9.5,Capuano,Coke,,3:49,N,26338,++++
+81,81,Thursday Jun 30,boxscore,NYM,@,DET,L,2,5,,41-40,3,9.5,Verlander,Pelfrey,Valverde,3:15,D,31861,-
+82,82,Friday Jul 1,boxscore,NYM,,NYY,L,1,5,,41-41,3,10.5,Nova,Niese,,3:17,N,42020,--
+83,83,Saturday Jul 2,boxscore,NYM,,NYY,L,2,5,,41-42,4,11.5,Colon,Gee,,2:32,D,42042,---
+84,84,Sunday Jul 3,boxscore,NYM,,NYY,W-wo,3,2,10,42-42,3,10.5,Rodriguez,Ayala,,3:25,D,41513,+
+85,85,Monday Jul 4,boxscore,NYM,@,LAD,W,5,2,,43-42,3,10.5,Capuano,De La Rosa,Rodriguez,2:35,N,56000,++
+86,86,Tuesday Jul 5,boxscore,NYM,@,LAD,W,6,0,,44-42,3,10.5,Pelfrey,Lilly,,2:51,N,32329,+++
+87,87,Wednesday Jul 6,boxscore,NYM,@,LAD,W,5,3,,45-42,3,9.5,Niese,Kuroda,Rodriguez,2:47,N,31005,++++
+88,88,Thursday Jul 7,boxscore,NYM,@,LAD,L,0,6,,45-43,3,10.0,Kershaw,Gee,,2:50,N,56000,-
+89,89,Friday Jul 8,boxscore,NYM,@,SFG,W,5,2,,46-43,3,10.0,Beato,Wilson,Rodriguez,3:00,N,41028,+
+90,90,Saturday Jul 9,boxscore,NYM,@,SFG,L,1,3,,46-44,3,10.0,Lincecum,Capuano,Romo,2:41,N,42117,-
+91,91,Sunday Jul 10,boxscore,NYM,@,SFG,L,2,4,,46-45,3,11.0,Cain,Pelfrey,Wilson,2:50,N,42123,--
+92,92,Friday Jul 15,boxscore,NYM,,PHI,L,2,7,,46-46,3,12.0,Worley,Dickey,,2:59,N,37304,---
+93,93,Saturday Jul 16,boxscore,NYM,,PHI,W,11,2,,47-46,3,11.0,Niese,Hamels,,2:37,D,41166,+
+94,94,Sunday Jul 17,boxscore,NYM,,PHI,L,5,8,,47-47,3,12.0,Kendrick,Pelfrey,Bastardo,3:30,D,34695,-
+95,95,Monday Jul 18,boxscore,NYM,,FLA,L,1,4,,47-48,4,12.0,Hensley,Capuano,Oviedo,2:54,N,32411,--
+96,96,Tuesday Jul 19,boxscore,NYM,,STL,W,4,2,,48-48,3,12.0,Gee,Lohse,Isringhausen,2:35,N,35448,+
+97,97,Wednesday Jul 20,boxscore,NYM,,STL,W-wo,6,5,10,49-48,3,12.0,Isringhausen,Salas,,3:14,N,30770,++
+98,98,Thursday Jul 21,boxscore,NYM,,STL,L,2,6,,49-49,3,12.5,Westbrook,Niese,,2:07,D,37416,-
+99,99,Friday Jul 22,boxscore,NYM,@,FLA,W,7,6,,50-49,3,12.5,Parnell,Mujica,Isringhausen,3:34,N,21304,+
+100,100,Saturday Jul 23,boxscore,NYM,@,FLA,L,5,8,,50-50,3,13.5,Badenhop,Capuano,,3:00,N,26345,-
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+101,101,Sunday Jul 24,boxscore,NYM,@,FLA,L,4,5,,50-51,3,14.5,Choate,Parnell,Oviedo,2:47,D,20416,--
+102,102,Monday Jul 25,boxscore,NYM,@,CIN,W,4,2,,51-51,3,13.5,Dickey,Leake,Isringhausen,3:06,N,25480,+
+103,103,Tuesday Jul 26,boxscore,NYM,@,CIN,W,8,6,,52-51,3,13.5,Niese,Cueto,Byrdak,3:25,N,27552,++
+104,104,Wednesday Jul 27,boxscore,NYM,@,CIN,W,8,2,,53-51,3,12.5,Pelfrey,Arroyo,,2:39,N,23616,+++
+105,105,Thursday Jul 28,boxscore,NYM,@,CIN,W,10,9,,54-51,3,11.5,Capuano,Bailey,Isringhausen,3:24,D,25400,++++
+106,106,Friday Jul 29,boxscore,NYM,@,WSN,W,8,5,,55-51,3,11.5,Gee,Wang,Isringhausen,2:55,N,30114,+++++
+107,107,Saturday Jul 30,boxscore,NYM,@,WSN,L,0,3,,55-52,3,12.5,Maya,Dickey,Storen,2:30,N,35414,-
+108,108,Sunday Jul 31,boxscore,NYM,@,WSN,L-wo,2,3,,55-53,3,13.5,Storen,Parnell,,3:02,D,25307,--
+109,109,Monday Aug 1,boxscore,NYM,,FLA,L,3,7,10,55-54,3,14.5,Oviedo,Isringhausen,,3:13,N,28862,---
+110,110,Tuesday Aug 2,boxscore,NYM,,FLA,L,3,4,,55-55,3,15.5,Cishek,Isringhausen,Oviedo,3:06,N,33297,----
+111,111,Friday Aug 5,boxscore,NYM,,ATL,L,1,4,,55-56,3,17.5,Hudson,Dickey,Kimbrel,2:43,N,30607,-----
+112,112,Saturday Aug 6,boxscore,NYM,,ATL,W,11,7,,56-56,3,17.5,Niese,Hanson,,3:12,N,33556,+
+113,113,Sunday Aug 7,boxscore,NYM,,ATL,L,5,6,,56-57,3,17.5,Venters,Parnell,Kimbrel,3:25,D,29853,-
+114,114,Monday Aug 8,boxscore,NYM,,SDP,W-wo,9,8,,57-57,3,17.5,Isringhausen,Bell,,2:50,N,21814,+
+115,115,Tuesday Aug 9,boxscore,NYM,,SDP,W,5,4,,58-57,3,17.5,Carrasco,Qualls,Isringhausen,2:56,N,24619,++
+116,116,Wednesday Aug 10,boxscore,NYM,,SDP,L,5,9,,58-58,3,18.5,Harang,Dickey,,3:08,N,39589,-
+117,117,Thursday Aug 11,boxscore,NYM,,SDP,L,2,3,,58-59,3,19.0,Qualls,Niese,Bell,2:48,D,32348,--
+118,118,Friday Aug 12,boxscore,NYM,@,ARI,L,3,4,,58-60,3,19.0,Kennedy,Gee,Putz,2:36,N,25701,---
+119,119,Saturday Aug 13,boxscore,NYM,@,ARI,L,4,6,,58-61,3,20.0,Hudson,Carrasco,Putz,2:17,N,33552,----
+120,120,Sunday Aug 14,boxscore,NYM,@,ARI,L,3,5,,58-62,3,20.5,Duke,Capuano,Hernandez,3:14,D,30148,-----
+121,121,Monday Aug 15,boxscore,NYM,@,SDP,W,5,4,10,59-62,3,20.0,Acosta,Spence,Isringhausen,3:38,N,30094,+
+122,122,Tuesday Aug 16,boxscore,NYM,@,SDP,L,1,6,,59-63,3,20.0,Luebke,Niese,,2:31,N,24212,-
+123,123,Wednesday Aug 17,boxscore,NYM,@,SDP,W,7,3,,60-63,3,20.0,Gee,Latos,,3:16,D,22089,+
+124,124,Friday Aug 19,boxscore,NYM,,MIL,L,1,6,,60-64,4,20.5,Marcum,Pelfrey,,2:55,N,24470,-
+125,125,Saturday Aug 20,boxscore,NYM,,MIL,L,9,11,,60-65,4,21.5,Rodriguez,Isringhausen,Axford,3:18,D,28234,--
+126,126,Sunday Aug 21,boxscore,NYM,,MIL,L,2,6,,60-66,4,21.5,Gallardo,Acosta,,2:54,D,25949,---
+127,127,Monday Aug 22,boxscore,NYM,@,PHI,L,0,10,,60-67,4,22.5,Lee,Gee,,2:42,N,45783,----
+128,128,Tuesday Aug 23,boxscore,NYM,@,PHI,L,4,9,,60-68,4,23.5,Worley,Niese,,2:41,N,45770,-----
+129,129,Wednesday Aug 24,boxscore,NYM,@,PHI,W,7,4,,61-68,4,22.5,Pelfrey,Kendrick,Parnell,3:41,D,45689,+
+130,130,Friday Aug 26,boxscore,NYM,,ATL,W,6,0,,62-68,3,21.5,Capuano,Hudson,,2:35,N,22736,++
+131,131,Monday Aug 29 (1),boxscore,NYM,,FLA,W,2,1,,63-68,3,21.0,Dickey,Sanchez,Parnell,2:44,D,0,+++
+132,132,Monday Aug 29 (2),boxscore,NYM,,FLA,W,5,1,,64-68,3,21.0,Gee,Nolasco,,2:52,N,29335,++++
+133,133,Tuesday Aug 30,boxscore,NYM,,FLA,L,0,6,,64-69,3,22.0,Vazquez,Pelfrey,,3:09,N,30806,-
+134,134,Wednesday Aug 31,boxscore,NYM,,FLA,W,3,2,,65-69,3,22.0,Acosta,Volstad,Parnell,2:48,N,27905,+
+135,135,Thursday Sep 1,boxscore,NYM,,FLA,W,7,5,,66-69,3,22.0,Batista,Hensley,Parnell,3:01,N,27562,++
+136,136,Friday Sep 2,boxscore,NYM,@,WSN,W,7,3,,67-69,3,22.0,Dickey,Detwiler,,2:41,N,27907,+++
+137,137,Saturday Sep 3,boxscore,NYM,@,WSN,L-wo,7,8,,67-70,3,22.0,Burnett,Parnell,,3:19,N,34821,-
+138,138,Sunday Sep 4,boxscore,NYM,@,WSN,W,6,3,,68-70,3,21.0,Igarashi,Hernandez,Parnell,3:12,D,29679,+
+139,139,Monday Sep 5,boxscore,NYM,@,FLA,L,3,9,,68-71,3,22.0,Vazquez,Capuano,,2:50,N,21112,-
+140,140,Tuesday Sep 6,boxscore,NYM,@,FLA,W,7,4,12,69-71,3,22.0,Igarashi,Ceda,Stinson,4:29,N,22318,+
+141,141,Wednesday Sep 7,boxscore,NYM,@,FLA,W,1,0,,70-71,3,22.0,Dickey,Hand,Acosta,2:47,N,21303,++
+142,142,Thursday Sep 8 (1),boxscore,NYM,,ATL,L,5,6,,70-72,3,23.5,Minor,Schwinden,Kimbrel,3:13,D,0,-
+143,143,Thursday Sep 8 (2),boxscore,NYM,,ATL,L,1,5,,70-73,3,23.5,Teheran,Gee,,2:48,N,25953,--
+144,144,Friday Sep 9,boxscore,NYM,,CHC,W-wo,5,4,,71-73,3,23.5,Acosta,Marshall,,3:04,N,27639,+
+145,145,Saturday Sep 10,boxscore,NYM,,CHC,L,4,5,,71-74,3,24.5,Wood,Parnell,Marmol,3:02,D,30443,-
+146,146,Sunday Sep 11,boxscore,NYM,,CHC,L,6,10,11,71-75,3,24.5,Ortiz,Stinson,,4:28,N,33502,--
+147,147,Monday Sep 12,boxscore,NYM,,WSN,L,2,3,,71-76,3,24.5,Coffey,Dickey,Storen,2:41,N,27015,---
+148,148,Tuesday Sep 13,boxscore,NYM,,WSN,L,2,3,,71-77,3,24.5,Stammen,Thayer,Storen,3:08,N,25359,----
+149,149,Wednesday Sep 14,boxscore,NYM,,WSN,L,0,2,,71-78,3,25.5,Peacock,Pelfrey,Storen,2:56,N,26885,-----
+150,150,Thursday Sep 15,boxscore,NYM,,WSN,L,1,10,,71-79,4,27.0,Milone,Schwinden,,3:22,D,22205,------
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+151,151,Friday Sep 16,boxscore,NYM,@,ATL,W,12,2,,72-79,3,26.0,Capuano,Lowe,,3:24,N,43901,+
+152,152,Saturday Sep 17,boxscore,NYM,@,ATL,L,0,1,,72-80,3,27.0,Hudson,Dickey,Kimbrel,2:22,D,46763,-
+153,153,Sunday Sep 18,boxscore,NYM,@,ATL,W,7,5,,73-80,3,26.0,Byrdak,Venters,Acosta,3:18,D,39862,+
+154,154,Tuesday Sep 20,boxscore,NYM,@,STL,L,6,11,,73-81,4,25.0,Dotel,Stinson,,3:23,N,37746,-
+155,155,Wednesday Sep 21,boxscore,NYM,@,STL,L,5,6,,73-82,4,25.0,Garcia,Herrera,Motte,2:24,N,40658,--
+156,156,Thursday Sep 22,boxscore,NYM,@,STL,W,8,6,,74-82,4,24.0,Acosta,Rzepczynski,Parnell,3:24,D,35992,+
+157,157,Saturday Sep 24 (1),boxscore,NYM,,PHI,W,2,1,,75-82,4,22.0,Parnell,Lidge,Acosta,2:27,D,33961,++
+158,158,Saturday Sep 24 (2),boxscore,NYM,,PHI,W,6,3,,76-82,4,22.0,Gee,Herndon,Acosta,2:48,N,32437,+++
+159,159,Sunday Sep 25,boxscore,NYM,,PHI,L,4,9,,76-83,4,23.0,Halladay,Pelfrey,,3:06,D,32796,-
+160,160,Monday Sep 26,boxscore,NYM,,CIN,L,5,6,,76-84,4,24.0,Ondrusek,Byrdak,Cordero,3:19,N,28651,--
+161,161,Tuesday Sep 27,boxscore,NYM,,CIN,L,4,5,13,76-85,4,25.0,LeCure,Thayer,Cordero,4:19,N,30027,---
+162,162,Wednesday Sep 28,boxscore,NYM,,CIN,W,3,0,,77-85,4,25.0,Batista,Volquez,,2:15,D,28816,+
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak

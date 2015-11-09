@@ -166,3 +166,8 @@ Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,
 161,161,Tuesday Sep 27,boxscore,NYY,@,TBR,L,3,5,,97-64,1,up 7.0,McGee,Soriano,Farnsworth,2:55,N,22820,---
 162,162,Wednesday Sep 28,boxscore,NYY,@,TBR,L-wo,7,8,12,97-65,1,up 6.0,McGee,Proctor,,4:54,N,29518,----
 Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+,PLAYOFF,Friday Sep 30,boxscore,,,,W,,,,,,,,,,,,,+
+,PLAYOFF,Sunday Oct 2,boxscore,,,,L,,,,,,,,,,,,,-
+,PLAYOFF,Monday Oct 3,boxscore,,,,L,,,,,,,,,,,,,--
+,PLAYOFF,Tuesday Oct 4,boxscore,,,,W,,,,,,,,,,,,,+
+,PLAYOFF,Thursday Oct 6,boxscore,,,,L,,,,,,,,,,,,,-
